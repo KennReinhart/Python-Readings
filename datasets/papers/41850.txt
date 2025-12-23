@@ -1,1 +1,0 @@
-Detecting global termination conditions in the face of uncertainty

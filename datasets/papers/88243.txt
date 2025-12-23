@@ -1,1 +1,0 @@
-Cache performance of the integer SPEC benchmarks on a RISC

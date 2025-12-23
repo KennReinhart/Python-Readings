@@ -1,1 +1,0 @@
-Automatically validating temporal safety properties of interfaces

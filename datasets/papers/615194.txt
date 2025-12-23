@@ -1,1 +1,0 @@
-The glue-nail deductive database system: design, implementation, and evaluation

@@ -1,1 +1,0 @@
-An Adaptation of the Fast Fourier Transform for Parallel Processing

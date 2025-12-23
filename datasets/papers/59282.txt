@@ -1,1 +1,0 @@
-The Delay Due to Dynamic Two-Phase Locking

@@ -1,1 +1,0 @@
-The tree quorum protocol: an efficient approach for managing replicated data

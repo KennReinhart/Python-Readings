@@ -1,1 +1,0 @@
-Actors: a model of concurrent computation in distributed systems

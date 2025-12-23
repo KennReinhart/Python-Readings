@@ -1,1 +1,0 @@
-Process control and scheduling issues for multiprogrammed shared-memory multiprocessors

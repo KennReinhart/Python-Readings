@@ -1,1 +1,0 @@
-Experimental queueing analysis with long-range dependent packet traffic

@@ -1,1 +1,0 @@
-Queueing network models for concurrent transaction processing in a database system

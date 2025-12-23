@@ -1,1 +1,0 @@
-Archipelago: an Island-based file system for highly available and scalable internet services

@@ -1,1 +1,0 @@
-Concurrent Certifications by Intervals of Timestamps in Distributed Database Systems

@@ -1,1 +1,0 @@
-How to be an efficient snoop, or the probe complexity of quorum systems (extended abstract)

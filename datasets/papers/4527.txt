@@ -1,1 +1,0 @@
-Modeling and Analysis of Distributed Database Concurrency Control Algorithms Using an Extended Petri Net Formalism

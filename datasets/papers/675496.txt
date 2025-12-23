@@ -1,1 +1,0 @@
-Total Ordering Algorithms for Asynchronous Byzantine Systems

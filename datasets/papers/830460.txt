@@ -1,1 +1,0 @@
-SKEME: a versatile secure key exchange mechanism for Internet

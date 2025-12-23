@@ -1,1 +1,0 @@
-Spatial gossip and resource location protocols

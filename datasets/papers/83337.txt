@@ -1,1 +1,0 @@
-Automatically increasing the fault-tolerance of distributed algorithms

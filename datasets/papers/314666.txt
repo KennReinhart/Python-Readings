@@ -1,1 +1,0 @@
-The QRQW PRAM: accounting for contention in parallel algorithms

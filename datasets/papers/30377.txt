@@ -1,1 +1,0 @@
-Correct memory operation of cache-based multiprocessors

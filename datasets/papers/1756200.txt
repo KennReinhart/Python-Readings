@@ -1,1 +1,0 @@
-General secure multi-party computation from any linear secret-sharing scheme

@@ -1,1 +1,0 @@
-Path independence for authentication in large-scale systems

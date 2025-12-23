@@ -1,1 +1,0 @@
-A low-bandwidth network file system

@@ -1,1 +1,0 @@
-Concurrency control algorithms and their performance in replicated database systems

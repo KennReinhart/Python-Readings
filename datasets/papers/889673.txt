@@ -1,1 +1,0 @@
-A Correctness Proof for a Practical Byzantine-Fault-Tolerant Replication Algorithm

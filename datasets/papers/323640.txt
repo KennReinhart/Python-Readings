@@ -1,1 +1,0 @@
-Transactions and synchronization in a distributed operating system

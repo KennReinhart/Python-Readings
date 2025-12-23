@@ -1,1 +1,0 @@
-Model checking large network protocol implementations

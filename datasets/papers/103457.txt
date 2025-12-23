@@ -1,1 +1,0 @@
-Bounds on the time to reach agreement in the presence of timing uncertainty

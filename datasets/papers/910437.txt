@@ -1,1 +1,0 @@
-An optimistic protocol for partitioned distributed database systems

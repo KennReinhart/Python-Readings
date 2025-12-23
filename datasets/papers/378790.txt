@@ -1,1 +1,0 @@
-The effects of wide-area conditions on WWW server performance

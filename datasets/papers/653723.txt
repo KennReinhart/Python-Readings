@@ -1,1 +1,0 @@
-Optimizing Vote and Quorum Assignments for Reading and Writing Replicated Data

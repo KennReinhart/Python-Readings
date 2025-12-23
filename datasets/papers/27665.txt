@@ -1,1 +1,0 @@
-UNIX system V: streams programmer's guide

@@ -1,1 +1,0 @@
-A Resilient Mutual Exclusion Algorithm for Computer Networks

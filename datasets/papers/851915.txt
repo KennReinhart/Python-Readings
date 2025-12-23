@@ -1,1 +1,0 @@
-Evaluating Distributed Checkpointing Protocol

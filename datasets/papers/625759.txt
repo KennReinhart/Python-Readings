@@ -1,1 +1,0 @@
-A Software Platform for Testing Intrusion Detection Systems

@@ -1,1 +1,0 @@
-A universal modular ACTOR formalism for artificial intelligence

@@ -1,1 +1,0 @@
-Design of the TruCluster multicomputer system for the Digital UNIX environment

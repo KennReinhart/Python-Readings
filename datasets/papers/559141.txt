@@ -1,1 +1,0 @@
-Databases and Transaction Processing: An Application-Oriented Approach

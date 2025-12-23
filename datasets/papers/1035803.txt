@@ -1,1 +1,0 @@
-Early consensus in an asynchronous system with a weak failure detector

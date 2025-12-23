@@ -1,1 +1,0 @@
-Two fast implementations of the “minimal standard” random number generator

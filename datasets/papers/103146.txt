@@ -1,1 +1,0 @@
-The multicast policy and its relationship to replicated data placement

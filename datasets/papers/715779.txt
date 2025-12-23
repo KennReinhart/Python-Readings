@@ -1,1 +1,0 @@
-Payload Caching: High-Speed Data Forwarding for Network Intermediaries

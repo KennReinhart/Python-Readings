@@ -1,1 +1,0 @@
-An efficient I/O interface for optical disks

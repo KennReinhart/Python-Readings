@@ -1,1 +1,0 @@
-Key distribution without individual trusted authentification servers

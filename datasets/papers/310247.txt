@@ -1,1 +1,0 @@
-Using the heartbeat failure detector for quiescent reliable communication and consensus in partitionable networks

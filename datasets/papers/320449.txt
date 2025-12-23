@@ -1,1 +1,0 @@
-Optimal allocation of resources in distributed information networks

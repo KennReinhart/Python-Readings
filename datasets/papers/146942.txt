@@ -1,1 +1,0 @@
-Disconnected operation in the Coda File System

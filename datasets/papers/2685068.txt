@@ -1,1 +1,0 @@
-Simple testing can prevent most critical failures: an analysis of production failures in distributed data-intensive systems

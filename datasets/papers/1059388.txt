@@ -1,1 +1,0 @@
-BIND: A Fine-Grained Attestation Service for Secure Distributed Systems

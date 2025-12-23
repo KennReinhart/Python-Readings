@@ -1,1 +1,0 @@
-The SLAM project: debugging system software via static analysis

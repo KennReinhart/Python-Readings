@@ -1,1 +1,0 @@
-A Client-Server Approach to Virtually Synchronous Group Multicast: Specifications and Algorithms

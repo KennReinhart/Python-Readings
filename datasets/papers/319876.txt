@@ -1,1 +1,0 @@
-A semantic model of reference counting and its abstraction (detailed summary)

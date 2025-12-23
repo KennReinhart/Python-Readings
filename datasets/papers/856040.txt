@@ -1,1 +1,0 @@
-Analyze-NOW-an environment for collection and analysis of failures in a network of workstations

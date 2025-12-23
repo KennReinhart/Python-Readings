@@ -1,1 +1,0 @@
-Time-space trade-offs for asynchronous parallel models (Reducibilities and Equivalences)

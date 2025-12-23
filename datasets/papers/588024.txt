@@ -1,1 +1,0 @@
-Synapse approach to database recovery

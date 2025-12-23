@@ -1,1 +1,0 @@
-A Response to ''Can We Eliminate Certificate Revocation Lists?''

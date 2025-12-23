@@ -1,1 +1,0 @@
-Experience with a Distributed File System Implementation with Adaptive

@@ -1,1 +1,0 @@
-ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging

@@ -1,1 +1,0 @@
-LinkBench: a database benchmark based on the Facebook social graph

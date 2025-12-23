@@ -1,1 +1,0 @@
-A relational model of data for large shared data banks

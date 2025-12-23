@@ -1,1 +1,0 @@
-StarOS, a multiprocessor operating system for the support of task forces

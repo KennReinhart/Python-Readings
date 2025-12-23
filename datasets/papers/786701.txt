@@ -1,1 +1,0 @@
-The Design of an Asynchronous MIPS R3000 Microprocessor

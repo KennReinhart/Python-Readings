@@ -1,1 +1,0 @@
-Atomic Snapshots in O (n log n) Operations

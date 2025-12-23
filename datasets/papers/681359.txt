@@ -1,1 +1,0 @@
-Modelization and verification of a multiprocessor realtime OS kernel

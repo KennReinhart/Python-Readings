@@ -1,1 +1,0 @@
-An overview of workflow management: from process modeling to workflow automation infrastructure

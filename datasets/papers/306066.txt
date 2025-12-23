@@ -1,1 +1,0 @@
-Increasing the Resilience of Distributed and Replicated Database Systems

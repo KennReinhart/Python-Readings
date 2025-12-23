@@ -1,1 +1,0 @@
-Lazy maintenance of materialized views

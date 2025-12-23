@@ -1,1 +1,0 @@
-Specification, Synthesis, Verification and Performance Analysis ofDistributed Programs

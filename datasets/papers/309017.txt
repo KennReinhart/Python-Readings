@@ -1,1 +1,0 @@
-The locally self-consistent multiple scattering code in a geographically distributed linked MPP environment

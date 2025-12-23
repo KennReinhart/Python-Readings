@@ -1,1 +1,0 @@
-HAC: hybrid adaptive caching for distributed storage systems

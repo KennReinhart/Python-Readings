@@ -1,1 +1,0 @@
-Project Oberon: the design of an operating system and compiler

@@ -1,1 +1,0 @@
-Measuring the effects of distributed database models on transaction availability measures

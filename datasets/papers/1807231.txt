@@ -1,1 +1,0 @@
-An evaluation of alternative architectures for transaction processing in the cloud

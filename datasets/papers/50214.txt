@@ -1,1 +1,0 @@
-A case for redundant arrays of inexpensive disks (RAID)

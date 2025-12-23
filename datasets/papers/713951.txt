@@ -1,1 +1,0 @@
-Non-Interactive Generation of Shared Pseudorandom Sequences

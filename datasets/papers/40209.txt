@@ -1,1 +1,0 @@
-Extended impossibility results for asynchronous complete networks

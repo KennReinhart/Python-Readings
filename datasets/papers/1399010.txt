@@ -1,1 +1,0 @@
-The load, capacity and availability of quorum systems

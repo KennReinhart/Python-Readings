@@ -1,1 +1,0 @@
-Coding Techniques for Handling Failures in Large Disk Arrays

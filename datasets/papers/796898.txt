@@ -1,1 +1,0 @@
-The Design and Architecture of the Microsoft Cluster Service - A Practical Approach to High-Availability and Scalability

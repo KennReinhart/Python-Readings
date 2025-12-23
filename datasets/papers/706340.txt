@@ -1,1 +1,0 @@
-A Practical Public Key Cryptosystem Provably Secure Against Adaptive Chosen Ciphertext Attack

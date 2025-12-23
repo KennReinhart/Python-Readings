@@ -1,1 +1,0 @@
-SCAN: A Dynamic, Scalable, and Efficient Content Distribution Network

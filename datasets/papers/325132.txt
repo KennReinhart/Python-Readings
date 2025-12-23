@@ -1,1 +1,0 @@
-The directory-based cache coherence protocol for the DASH multiprocessor

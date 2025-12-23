@@ -1,1 +1,0 @@
-Data diversity: an approach to software fault tolerance

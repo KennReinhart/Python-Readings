@@ -1,1 +1,0 @@
-Locality-aware request distribution in cluster-based network servers

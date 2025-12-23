@@ -1,1 +1,0 @@
-Efficient logic variables for distributed computing

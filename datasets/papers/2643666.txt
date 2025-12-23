@@ -1,1 +1,0 @@
-In search of an understandable consensus algorithm

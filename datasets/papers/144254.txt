@@ -1,1 +1,0 @@
-A hop by hop rate-based congestion control scheme

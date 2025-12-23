@@ -1,1 +1,0 @@
-The case for a single-chip multiprocessor

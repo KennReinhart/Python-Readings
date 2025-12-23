@@ -1,1 +1,0 @@
-Security, fault tolerance, and communication complexity in distributed systems

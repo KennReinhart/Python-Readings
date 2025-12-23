@@ -1,1 +1,0 @@
-Accent: A communication oriented network operating system kernel

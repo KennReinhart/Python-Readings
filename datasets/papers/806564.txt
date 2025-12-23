@@ -1,1 +1,0 @@
-WFS a simple shared file system for a distributed environment

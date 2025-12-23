@@ -1,1 +1,0 @@
-MVSS: an active storage architecture

@@ -1,1 +1,0 @@
-Symbolic model checking: 1020 states and beyond

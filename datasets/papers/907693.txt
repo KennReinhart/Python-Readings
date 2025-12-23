@@ -1,1 +1,0 @@
-Interprocessor connections--capabilities, exploitation and effectiveness.

@@ -1,1 +1,0 @@
-Middleware for Dependable Network Services in Partitionable Distributed Systems

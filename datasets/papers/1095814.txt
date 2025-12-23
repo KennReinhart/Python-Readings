@@ -1,1 +1,0 @@
-Mondrix: memory isolation for linux using mondriaan memory protection

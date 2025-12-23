@@ -1,1 +1,0 @@
-Augmented inverted indexes to track causality in eventually consistent data stores

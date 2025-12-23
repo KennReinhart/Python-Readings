@@ -1,1 +1,0 @@
-Lazy replication: exploiting the semantics of distributed services

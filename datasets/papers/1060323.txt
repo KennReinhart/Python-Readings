@@ -1,1 +1,0 @@
-The design and implementation of Zap: a system for migrating computing environments

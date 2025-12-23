@@ -1,1 +1,0 @@
-An adaptive congestion control scheme for real-time packet video transport

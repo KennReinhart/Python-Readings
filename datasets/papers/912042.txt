@@ -1,1 +1,0 @@
-Issues of fault tolerance in concurrent computations (databases, reliability, transactions, agreement protocols, distributed computing)

@@ -1,1 +1,0 @@
-Implementing multiple protection domains in java

@@ -1,1 +1,0 @@
-Principles and realization strategies of multilevel transaction management

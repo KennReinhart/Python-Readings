@@ -1,1 +1,0 @@
-Global Memory Management in Client-Server Database Architectures

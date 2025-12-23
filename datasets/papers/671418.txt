@@ -1,1 +1,0 @@
-Intersection Types and Bounded Polymorphism

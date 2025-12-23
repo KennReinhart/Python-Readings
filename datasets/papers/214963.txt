@@ -1,1 +1,0 @@
-Data compression on a database system

@@ -1,1 +1,0 @@
-The Grid Protocol: A High Performance Scheme for Maintaining Replicated Data

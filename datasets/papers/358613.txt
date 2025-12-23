@@ -1,1 +1,0 @@
-Asynchronous distributed simulation via a sequence of parallel computations

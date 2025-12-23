@@ -1,1 +1,0 @@
-An adaptive data placement scheme for parallel database computer systems

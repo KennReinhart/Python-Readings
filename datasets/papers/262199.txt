@@ -1,1 +1,0 @@
-The object database standard: ODMG 2.0

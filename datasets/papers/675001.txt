@@ -1,1 +1,0 @@
-Synchronizing Aysnchronous Bounded Delay Networks

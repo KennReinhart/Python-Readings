@@ -1,1 +1,0 @@
-Architectural Issues of Transaction Management in Multi-Layered Systems

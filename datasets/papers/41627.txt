@@ -1,1 +1,0 @@
-Axioms for concurrent objects

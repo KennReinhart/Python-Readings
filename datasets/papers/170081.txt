@@ -1,1 +1,0 @@
-The LRU-K page replacement algorithm for database disk buffering

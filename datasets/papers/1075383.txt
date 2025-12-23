@@ -1,1 +1,0 @@
-The KaffeOS Java runtime system

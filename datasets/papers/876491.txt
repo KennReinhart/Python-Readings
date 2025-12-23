@@ -1,1 +1,0 @@
-Condor-G: A Computation Management Agent for Multi-Institutional Grids

@@ -1,1 +1,0 @@
-The effects of two-phase locking on the performance of a distributed database management system

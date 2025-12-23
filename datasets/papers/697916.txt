@@ -1,1 +1,0 @@
-Encapsulating Failure Detection: From Crash to Byzantine Failures

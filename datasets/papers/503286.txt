@@ -1,1 +1,0 @@
-CCured: type-safe retrofitting of legacy code

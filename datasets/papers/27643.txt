@@ -1,1 +1,0 @@
-Concurrency versus availability: atomicity mechanisms for replicated data

@@ -1,1 +1,0 @@
-Architectural requirements of parallel scientific applications with explicit communication

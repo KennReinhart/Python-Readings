@@ -1,1 +1,0 @@
-Exploiting logical structures in replicated databases

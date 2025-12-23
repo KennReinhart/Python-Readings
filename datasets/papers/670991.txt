@@ -1,1 +1,0 @@
-Using Versions in Update Transactions: Application to Integrity Checking

@@ -1,1 +1,0 @@
-The virtue of dependent failures in multi-site systems

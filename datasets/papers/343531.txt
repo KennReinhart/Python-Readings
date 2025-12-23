@@ -1,1 +1,0 @@
-Random oracles in constantipole: practical asynchronous Byzantine agreement using cryptography (extended abstract)

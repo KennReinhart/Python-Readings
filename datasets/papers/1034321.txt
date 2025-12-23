@@ -1,1 +1,0 @@
-A Performance Evaluation of a Quorum-Based State-Machine Replication Algorithm For Computing Grids

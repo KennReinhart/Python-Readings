@@ -1,1 +1,0 @@
-Container shipping: operating system support for I/O-intensive applications

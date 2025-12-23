@@ -1,1 +1,0 @@
-SeAl: Managing Accesses and Data in Peer-to-Peer Sharing Networks

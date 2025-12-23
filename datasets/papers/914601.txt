@@ -1,1 +1,0 @@
-Concurrent nested object computations

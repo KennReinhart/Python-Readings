@@ -1,1 +1,0 @@
-Decentralized user authentication in a global file system

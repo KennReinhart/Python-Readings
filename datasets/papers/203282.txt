@@ -1,1 +1,0 @@
-EVENODD: An Efficient Scheme for Tolerating Double Disk Failures in RAID Architectures

@@ -1,1 +1,0 @@
-A Knowledge Theoretic Account of Recovery in Distributed Systems: The Case of Negotiated Commitment

@@ -1,1 +1,0 @@
-A distributed algorithm for mutual exclusion in an arbitrary network

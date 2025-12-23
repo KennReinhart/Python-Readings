@@ -1,1 +1,0 @@
-The Wisconsin multicube: a new large-scale cache-coherent multiprocessor

@@ -1,1 +1,0 @@
-An elegant 1-writer multireader multivalued atomic register

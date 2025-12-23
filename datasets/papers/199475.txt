@@ -1,1 +1,0 @@
-Compiling polymorphism using intensional type analysis

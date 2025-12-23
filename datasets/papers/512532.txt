@@ -1,1 +1,0 @@
-Adoption and focus: practical linear types for imperative programming

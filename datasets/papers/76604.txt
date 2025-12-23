@@ -1,1 +1,0 @@
-The Performance Implications of Thread Management Alternatives for Shared-Memory Multiprocessors

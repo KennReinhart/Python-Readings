@@ -1,1 +1,0 @@
-Almost sure fault tolerance in random graphs

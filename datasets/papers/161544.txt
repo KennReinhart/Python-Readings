@@ -1,1 +1,0 @@
-Cooperative shared memory: software and hardware for scalable multiprocessors

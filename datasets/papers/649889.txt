@@ -1,1 +1,0 @@
-Scalable Update Propagation in Epidemic Replicated Databases

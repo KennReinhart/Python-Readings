@@ -1,1 +1,0 @@
-A hierarchical fair service curve algorithm for link-sharing, real-time and priority services

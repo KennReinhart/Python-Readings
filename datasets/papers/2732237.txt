@@ -1,1 +1,0 @@
-Highly available transactions: virtues and limitations

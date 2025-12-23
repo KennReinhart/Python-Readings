@@ -1,1 +1,0 @@
-Lazy consistency using loosely synchronized clocks

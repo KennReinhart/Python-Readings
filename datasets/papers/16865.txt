@@ -1,1 +1,0 @@
-Load balancing in a locally distributed DB system

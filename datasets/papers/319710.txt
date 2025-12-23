@@ -1,1 +1,0 @@
-The base-rate fallacy and its implications for the difficulty of intrusion detection

@@ -1,1 +1,0 @@
-Automatic node selection for high performance applications on networks

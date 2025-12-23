@@ -1,1 +1,0 @@
-A Value Transmission Method for Abstract Data Types

@@ -1,1 +1,0 @@
-A Client-Server Oriented Algorithm for Virtually Synchronous Group Membership in WANs

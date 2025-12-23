@@ -1,1 +1,0 @@
-Cilk: an efficient multithreaded runtime system

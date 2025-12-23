@@ -1,1 +1,0 @@
-Taming aggressive replication in the Pangaea wide-area file system

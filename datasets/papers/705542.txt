@@ -1,1 +1,0 @@
-Practical Approaches to Attaining Security Against Adaptively Chosen Ciphertext Attacks (Extended Abstract)

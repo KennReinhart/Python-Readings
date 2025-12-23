@@ -1,1 +1,0 @@
-Fault-tolerant distributed garbage collection in a client-server object-oriented database

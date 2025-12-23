@@ -1,1 +1,0 @@
-A low-overhead coherence solution for multiprocessors with private cache memories

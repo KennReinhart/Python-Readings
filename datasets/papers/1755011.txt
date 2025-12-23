@@ -1,1 +1,0 @@
-Attacking the Chor-Rivest cryptosystem by improved lattice reduction

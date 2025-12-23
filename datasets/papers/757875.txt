@@ -1,1 +1,0 @@
-High Performance Distributed Transaction Processing in a General Purpose Computing Environment

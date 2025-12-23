@@ -1,1 +1,0 @@
-Cache Conscious Algorithms for Relational Query Processing

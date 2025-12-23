@@ -1,1 +1,0 @@
-Spanner: Google's globally-distributed database

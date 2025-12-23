@@ -1,1 +1,0 @@
-A quantitative comparison of graph-based models for Internet topology

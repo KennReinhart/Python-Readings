@@ -1,1 +1,0 @@
-The distribution of faults in a large industrial software system

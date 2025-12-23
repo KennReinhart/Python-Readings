@@ -1,1 +1,0 @@
-Parametric shape analysis via 3-valued logic

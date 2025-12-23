@@ -1,1 +1,0 @@
-Towards property-based consistency verification

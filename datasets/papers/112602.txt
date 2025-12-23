@@ -1,1 +1,0 @@
-Randomized wait-free concurrent objects (extended abstract)

@@ -1,1 +1,0 @@
-A simple and efficient implementation of a small database

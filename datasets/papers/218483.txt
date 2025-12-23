@@ -1,1 +1,0 @@
-Divergence of   F≤  type checking

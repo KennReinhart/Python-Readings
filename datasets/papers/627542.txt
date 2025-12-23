@@ -1,1 +1,0 @@
-An Evaluation of Starburst's Memory Resident Storage Component

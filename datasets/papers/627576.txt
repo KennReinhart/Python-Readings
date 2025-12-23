@@ -1,1 +1,0 @@
-Storage Efficient and Secure Replicated Distributed Databases

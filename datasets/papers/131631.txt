@@ -1,1 +1,0 @@
-Message authentication with one-way hash functions

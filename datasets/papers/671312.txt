@@ -1,1 +1,0 @@
-A Study of Index Structures for Main Memory Database Management Systems

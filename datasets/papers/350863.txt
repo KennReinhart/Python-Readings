@@ -1,1 +1,0 @@
-Soft updates: a solution to the metadata update problem in file systems

@@ -1,1 +1,0 @@
-Performance characterization of a Quad Pentium Pro SMP using OLTP workloads

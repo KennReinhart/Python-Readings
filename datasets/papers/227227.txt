@@ -1,1 +1,0 @@
-The Transis approach to high availability cluster communication

@@ -1,1 +1,0 @@
-Lottery and Stride Scheduling: Flexible Proportional-share Resource Management

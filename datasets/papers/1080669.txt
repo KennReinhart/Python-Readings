@@ -1,1 +1,0 @@
-The GrADS Project: Software Support for High-Level Grid Application Development

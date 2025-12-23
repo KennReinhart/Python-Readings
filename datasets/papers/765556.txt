@@ -1,1 +1,0 @@
-Heuristic and randomized optimization for the join ordering problem

@@ -1,1 +1,0 @@
-Munin: distributed shared memory based on type-specific memory coherence

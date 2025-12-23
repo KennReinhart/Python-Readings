@@ -1,1 +1,0 @@
-Proving Properties of Complex Data Structures

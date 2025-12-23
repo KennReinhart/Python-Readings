@@ -1,1 +1,0 @@
-NON-VON's performance on certain database benchmarks

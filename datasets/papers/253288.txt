@@ -1,1 +1,0 @@
-An array-based algorithm for simultaneous multidimensional aggregates

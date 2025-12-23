@@ -1,1 +1,0 @@
-Architecture and Dependability of Large-Scale Internet Services

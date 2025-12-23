@@ -1,1 +1,0 @@
-Efficient synchronization primitives for large-scale cache-coherent multiprocessors

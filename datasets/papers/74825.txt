@@ -1,1 +1,0 @@
-Mul-T: a high-performance parallel Lisp

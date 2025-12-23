@@ -1,1 +1,0 @@
-How to simultaneously exchange a secret bit by flipping a symmetrically-biased coin

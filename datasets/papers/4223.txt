@@ -1,1 +1,0 @@
-How to assign votes in a distributed system

@@ -1,1 +1,0 @@
-The BUCKY object-relational benchmark

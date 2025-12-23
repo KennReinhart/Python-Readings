@@ -1,1 +1,0 @@
-Managing Wire Delay in Large Chip-Multiprocessor Caches

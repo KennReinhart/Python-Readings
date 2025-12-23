@@ -1,1 +1,0 @@
-Network Address Translator (NAT)-Friendly Application Design Guidelines

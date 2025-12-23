@@ -1,1 +1,0 @@
-Architecture and implementation of the Darmstadt database kernel system

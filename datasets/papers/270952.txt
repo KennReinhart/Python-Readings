@@ -1,1 +1,0 @@
-A Comment on "A Total Ordering Multicast Protocol Using Propagation Trees"

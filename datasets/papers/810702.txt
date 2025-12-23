@@ -1,1 +1,0 @@
-The analytic design of a dynamic look ahead and program segmenting system for multiprogrammed computers

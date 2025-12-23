@@ -1,1 +1,0 @@
-An adaptive data replication algorithm

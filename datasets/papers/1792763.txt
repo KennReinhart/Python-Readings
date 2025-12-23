@@ -1,1 +1,0 @@
-On verifying fault tolerance of distributed protocols

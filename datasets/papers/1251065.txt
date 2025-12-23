@@ -1,1 +1,0 @@
-POST: a secure, resilient, cooperative messaging system

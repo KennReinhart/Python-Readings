@@ -1,1 +1,0 @@
-A Gossip-Based Reliable Multicast for Large-Scale High-Throughput Applications

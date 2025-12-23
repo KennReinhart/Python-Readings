@@ -1,1 +1,0 @@
-Rules of Thumb in Data Engineering

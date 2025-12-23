@@ -1,1 +1,0 @@
-Benchmarking simple database operations

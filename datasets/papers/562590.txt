@@ -1,1 +1,0 @@
-Atomic Transactions: In Concurrent and Distributed Systems

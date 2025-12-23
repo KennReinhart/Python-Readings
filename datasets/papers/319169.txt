@@ -1,1 +1,0 @@
-Borrowed-virtual-time (BVT) scheduling: supporting latency-sensitive threads in a general-purpose scheduler

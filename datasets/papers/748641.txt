@@ -1,1 +1,0 @@
-Distributed Computing in a Heterogeneous Computing Environment

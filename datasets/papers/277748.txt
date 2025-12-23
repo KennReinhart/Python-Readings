@@ -1,1 +1,0 @@
-Memory management with explicit regions

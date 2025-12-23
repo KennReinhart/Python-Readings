@@ -1,1 +1,0 @@
-Using scheduler information to achieve optimal barrier synchronization performance

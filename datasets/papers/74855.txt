@@ -1,1 +1,0 @@
-The implementation of a coherent memory abstraction on a NUMA multiprocessor: experiences with platinum

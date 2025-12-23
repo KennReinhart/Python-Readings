@@ -1,1 +1,0 @@
-Fast and secure distributed read-only file system

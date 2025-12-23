@@ -1,1 +1,0 @@
-XMark: a benchmark for XML data management

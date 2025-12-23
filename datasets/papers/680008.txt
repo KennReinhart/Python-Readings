@@ -1,1 +1,0 @@
-Simple Ownership Types for Object Containment

@@ -1,1 +1,0 @@
-Operating system support for virtual machines

@@ -1,1 +1,0 @@
-Dynamic adaptive windows for high speed data networks: theory and simulations

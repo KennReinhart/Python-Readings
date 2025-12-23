@@ -1,1 +1,0 @@
-OceanStore: an architecture for global-scale persistent storage

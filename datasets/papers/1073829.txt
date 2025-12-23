@@ -1,1 +1,0 @@
-Quorum placement in networks to minimize access delays

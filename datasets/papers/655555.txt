@@ -1,1 +1,0 @@
-A Query Processing Strategy for the Decomposed Storage Model

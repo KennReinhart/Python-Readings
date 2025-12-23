@@ -1,1 +1,0 @@
-Tiny Tera: A Packet Switch Core

@@ -1,1 +1,0 @@
-Cache investment: integrating query optimization and distributed data placement

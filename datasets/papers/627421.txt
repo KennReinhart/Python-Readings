@@ -1,1 +1,0 @@
-Storage Efficient Replicated Databases

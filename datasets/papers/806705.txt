@@ -1,1 +1,0 @@
-The inherent cost of nonblocking commitment

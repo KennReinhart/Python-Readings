@@ -1,1 +1,0 @@
-A lattice model of secure information flow

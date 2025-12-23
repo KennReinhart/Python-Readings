@@ -1,1 +1,0 @@
-The Totem multiple-ring ordering and topology maintenance protocol

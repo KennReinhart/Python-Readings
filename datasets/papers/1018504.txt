@@ -1,1 +1,0 @@
-The IBM PCIXCC: a new cryptographic coprocessor for the IBM eServer

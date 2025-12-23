@@ -1,1 +1,0 @@
-Resource overbooking and application profiling in shared hosting platforms

@@ -1,1 +1,0 @@
-Exokernel: an operating system architecture for application-level resource management

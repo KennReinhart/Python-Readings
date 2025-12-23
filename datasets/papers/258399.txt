@@ -1,1 +1,0 @@
-Using content-derived names for configuration management

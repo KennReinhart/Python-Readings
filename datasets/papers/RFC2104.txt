@@ -1,1 +1,0 @@
-HMAC: Keyed-Hashing for Message Authentication

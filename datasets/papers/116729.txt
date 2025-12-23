@@ -1,1 +1,0 @@
-Transparent process migration: design alternatives and the sprite implementation

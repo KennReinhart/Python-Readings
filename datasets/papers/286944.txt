@@ -1,1 +1,0 @@
-JRes: a resource accounting interface for Java

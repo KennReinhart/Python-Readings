@@ -1,1 +1,0 @@
-The nesC language: A holistic approach to networked embedded systems

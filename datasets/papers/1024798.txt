@@ -1,1 +1,0 @@
-Replicated document management in a group communication system

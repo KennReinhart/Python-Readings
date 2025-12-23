@@ -1,1 +1,0 @@
-A host-network interface architecture for ATM

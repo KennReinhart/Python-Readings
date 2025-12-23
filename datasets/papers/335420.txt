@@ -1,1 +1,0 @@
-Eddies: continuously adaptive query processing

@@ -1,1 +1,0 @@
-The temporal logic of reactive and concurrent systems

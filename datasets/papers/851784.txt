@@ -1,1 +1,0 @@
-Graceful Quorum Reconfiguration in a Robust Emulation of Shared Memory

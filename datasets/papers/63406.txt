@@ -1,1 +1,0 @@
-Decentralizing a global naming service for improved performance and fault tolerance

@@ -1,1 +1,0 @@
-A simple and fast asynchronous consensus protocol based on a weak failure detector

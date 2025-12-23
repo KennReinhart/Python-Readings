@@ -1,1 +1,0 @@
-The Multics Input/Output system

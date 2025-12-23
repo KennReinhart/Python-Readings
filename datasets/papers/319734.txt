@@ -1,1 +1,0 @@
-Transactions and consistency in distributed database systems

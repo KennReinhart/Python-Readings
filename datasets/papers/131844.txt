@@ -1,1 +1,0 @@
-XTP: the Xpress Transfer Protocol

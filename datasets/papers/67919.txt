@@ -1,1 +1,0 @@
-Performance Characterization of Quorum-Consensus Algorithms for Replicated Data

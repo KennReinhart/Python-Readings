@@ -1,1 +1,0 @@
-Epidemic algorithms in replicated databases (extended abstract)

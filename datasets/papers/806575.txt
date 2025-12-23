@@ -1,1 +1,0 @@
-An open operating system for a single-user machine

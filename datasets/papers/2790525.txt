@@ -1,1 +1,0 @@
-Lasp: a language for distributed, coordination-free programming

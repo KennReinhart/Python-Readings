@@ -1,1 +1,0 @@
-H-BIND: a new approach to providing statistical performance guarantees to VBR traffic

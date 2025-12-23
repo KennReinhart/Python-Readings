@@ -1,1 +1,0 @@
-Hashing Methods and Relational Algebra Operations

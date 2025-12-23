@@ -1,1 +1,0 @@
-The Smalltalk-76 programming system design and implementation

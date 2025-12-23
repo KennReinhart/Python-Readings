@@ -1,1 +1,0 @@
-Leases: an efficient fault-tolerant mechanism for distributed file cache consistency

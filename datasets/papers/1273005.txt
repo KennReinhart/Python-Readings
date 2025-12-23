@@ -1,1 +1,0 @@
-Dryad: distributed data-parallel programs from sequential building blocks

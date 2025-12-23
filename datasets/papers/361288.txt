@@ -1,1 +1,0 @@
-A system for interprocess communication in a resource sharing computer network

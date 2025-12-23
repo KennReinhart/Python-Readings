@@ -1,1 +1,0 @@
-Distributed Implementations of Vickrey-Clarke-Groves Mechanisms

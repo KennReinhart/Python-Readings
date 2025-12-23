@@ -1,1 +1,0 @@
-Hive: a warehousing solution over a map-reduce framework

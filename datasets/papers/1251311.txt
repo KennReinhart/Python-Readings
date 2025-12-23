@@ -1,1 +1,0 @@
-Publius: a robust, tamper-evident, censorship-resistant web publishing system

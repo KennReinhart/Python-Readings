@@ -1,1 +1,0 @@
-Broadcast disks: data management for asymmetric communication environments

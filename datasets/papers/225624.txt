@@ -1,1 +1,0 @@
-Market-based control: a paradigm for distributed resource allocation

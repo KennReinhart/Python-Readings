@@ -1,1 +1,0 @@
-The Bancomat Problem: An Example of Resource Allocation in a Partitionable Asynchronous System

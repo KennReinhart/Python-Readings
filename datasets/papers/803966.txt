@@ -1,1 +1,0 @@
-Interconnecting a distributed processor system for avionics

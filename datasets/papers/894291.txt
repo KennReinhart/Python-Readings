@@ -1,1 +1,0 @@
-An Implementation of a Remote Procedure Call Protocol in the Berkeley

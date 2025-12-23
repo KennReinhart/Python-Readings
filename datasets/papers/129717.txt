@@ -1,1 +1,0 @@
-Competitive algorithms for distributed data management (extended abstract)

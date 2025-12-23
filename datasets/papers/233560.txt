@@ -1,1 +1,0 @@
-Recovery in the Calypso file system

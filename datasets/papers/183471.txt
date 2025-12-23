@@ -1,1 +1,0 @@
-Improved low-density subset sum algorithms

@@ -1,1 +1,0 @@
-A Continuous Media I/O Server and Its Synchronization Mechanism

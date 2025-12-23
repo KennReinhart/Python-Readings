@@ -1,1 +1,0 @@
-How to Share Concurrent Asynchronous Wait-Free Varaibles (Preliminary Version)

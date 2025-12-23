@@ -1,1 +1,0 @@
-Dynamic Virtual Clusters in a Grid Site Manager

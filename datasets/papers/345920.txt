@@ -1,1 +1,0 @@
-Directed diffusion: a scalable and robust communication paradigm for sensor networks

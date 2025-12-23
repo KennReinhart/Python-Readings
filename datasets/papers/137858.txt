@@ -1,1 +1,0 @@
-Distributed algorithms for dynamic replication of data

@@ -1,1 +1,0 @@
-Benefits of cache-affinity scheduling in shared-memory multiprocessors: a summary

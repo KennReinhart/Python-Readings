@@ -1,1 +1,0 @@
-Efficient, Strongly Consistent Implementations of Shared Memory (Extended Abstract)

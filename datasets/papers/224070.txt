@@ -1,1 +1,0 @@
-Managing update conflicts in Bayou, a weakly connected replicated storage system

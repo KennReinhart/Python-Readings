@@ -1,1 +1,0 @@
-The VMP network adapter board (NAB): high-performance network communication for multiprocessors

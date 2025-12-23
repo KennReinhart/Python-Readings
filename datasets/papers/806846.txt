@@ -1,1 +1,0 @@
-Organizing software in a distributed environment

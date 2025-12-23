@@ -1,1 +1,0 @@
-Lower bounds for discrete logarithms and related problems

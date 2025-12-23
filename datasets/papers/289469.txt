@@ -1,1 +1,0 @@
-Operational transformation in real-time group editors: issues, algorithms, and achievements

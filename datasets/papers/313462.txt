@@ -1,1 +1,0 @@
-An architecture for a secure service discovery service

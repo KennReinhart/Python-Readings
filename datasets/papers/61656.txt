@@ -1,1 +1,0 @@
-The design and implementation of the 4.3BSD UNIX operating system

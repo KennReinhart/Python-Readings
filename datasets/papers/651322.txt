@@ -1,1 +1,0 @@
-SnapMirror: File-System-Based Asynchronous Mirroring for Disaster Recovery

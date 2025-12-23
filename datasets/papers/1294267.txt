@@ -1,1 +1,0 @@
-Zyzzyva: speculative byzantine fault tolerance

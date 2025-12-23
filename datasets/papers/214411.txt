@@ -1,1 +1,0 @@
-Performance effects of architectural complexity in the Intel 432

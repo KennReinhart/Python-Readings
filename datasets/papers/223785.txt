@@ -1,1 +1,0 @@
-A critique of ANSI SQL isolation levels

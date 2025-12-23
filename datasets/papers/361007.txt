@@ -1,1 +1,0 @@
-Multidimensional binary search trees used for associative searching

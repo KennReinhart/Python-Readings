@@ -1,1 +1,0 @@
-Efficient mid-query re-optimization of sub-optimal query execution plans

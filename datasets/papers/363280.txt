@@ -1,1 +1,0 @@
-A LISP garbage-collector for virtual-memory computer systems

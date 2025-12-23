@@ -1,1 +1,0 @@
-BGP routing stability of popular destinations

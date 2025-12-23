@@ -1,1 +1,0 @@
-Using a High-Performance, Programmable Secure Coprocessor

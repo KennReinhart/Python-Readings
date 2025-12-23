@@ -1,1 +1,0 @@
-The landmark hierarchy: a new hierarchy for routing in very large networks

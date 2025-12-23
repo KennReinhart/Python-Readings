@@ -1,1 +1,0 @@
-Efficient identification and signatures for smart cards

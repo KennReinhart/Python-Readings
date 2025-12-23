@@ -1,1 +1,0 @@
-Technical opinion: does data traffic exceed voice traffic?

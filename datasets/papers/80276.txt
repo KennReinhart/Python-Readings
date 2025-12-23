@@ -1,1 +1,0 @@
-Evolution of storage facilities in AIX Version 3 for RISC System/6000 processors

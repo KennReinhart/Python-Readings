@@ -1,1 +1,0 @@
-Law-governed interaction: a coordination and control mechanism for heterogeneous distributed systems

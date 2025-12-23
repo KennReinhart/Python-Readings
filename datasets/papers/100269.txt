@@ -1,1 +1,0 @@
-One-way functions are necessary and sufficient for secure signatures

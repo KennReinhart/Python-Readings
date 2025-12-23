@@ -1,1 +1,0 @@
-Substituting for real time and common knowledge in asynchronous distributed systems

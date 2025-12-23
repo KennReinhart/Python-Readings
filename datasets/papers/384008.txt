@@ -1,1 +1,0 @@
-The concurrency hierarchy, and algorithms for unbounded concurrency

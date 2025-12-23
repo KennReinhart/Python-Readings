@@ -1,1 +1,0 @@
-IPC Interface and End-to-End Protocols

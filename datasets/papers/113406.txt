@@ -1,1 +1,0 @@
-Proving sequential consistency of high-performance shared memories (extended abstract)

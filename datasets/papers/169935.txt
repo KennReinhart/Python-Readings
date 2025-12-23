@@ -1,1 +1,0 @@
-Random early detection gateways for congestion avoidance

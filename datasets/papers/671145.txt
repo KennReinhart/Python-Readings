@@ -1,1 +1,0 @@
-The Performance of Concurrency Control Algorithms for Database Management Systems

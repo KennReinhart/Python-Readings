@@ -1,1 +1,0 @@
-Mach and Matchmaker: kernel and language support for object-oriented distributed systems

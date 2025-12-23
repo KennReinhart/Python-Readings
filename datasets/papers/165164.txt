@@ -1,1 +1,0 @@
-Transactional memory: architectural support for lock-free data structures

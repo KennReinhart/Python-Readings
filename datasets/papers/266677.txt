@@ -1,1 +1,0 @@
-The design, implementation and evaluation of SMART: a scheduler for multimedia applications

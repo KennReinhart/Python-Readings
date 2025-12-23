@@ -1,1 +1,0 @@
-Deceit: A Flexible Distributed File System

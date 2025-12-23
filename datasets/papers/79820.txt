@@ -1,1 +1,0 @@
-Coda: A Highly Available File System for a Distributed Workstation Environment

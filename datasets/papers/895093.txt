@@ -1,1 +1,0 @@
-Consensus and Membership in Synchronous and Asynchronous Distributed Systems

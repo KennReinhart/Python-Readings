@@ -1,1 +1,0 @@
-The declarative imperative: experiences and conjectures in distributed logic

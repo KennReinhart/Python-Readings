@@ -1,1 +1,0 @@
-Brewer's conjecture and the feasibility of consistent, available, partition-tolerant web services

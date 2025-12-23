@@ -1,1 +1,0 @@
-ALMI: an application level multicast infrastructure

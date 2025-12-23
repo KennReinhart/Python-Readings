@@ -1,1 +1,0 @@
-Efficient implementation of the smalltalk-80 system

@@ -1,1 +1,0 @@
-An analysis of BGP multiple origin AS (MOAS) conflicts

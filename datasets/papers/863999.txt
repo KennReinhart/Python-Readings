@@ -1,1 +1,0 @@
-Graph-theoretic analysis of structured peer-to-peer systems: routing distances and fault resilience

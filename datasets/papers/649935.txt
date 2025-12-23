@@ -1,1 +1,0 @@
-Optimizing Voting-Type Algorithms for Replicated Data

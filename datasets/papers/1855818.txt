@@ -1,1 +1,0 @@
-Object storage on CRAQ: high-throughput chain replication for read-mostly workloads

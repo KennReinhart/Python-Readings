@@ -1,1 +1,0 @@
-The VMP multiprocessor: initial experience, refinements, and performance evaluation

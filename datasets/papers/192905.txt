@@ -1,1 +1,0 @@
-GroupLens: an open architecture for collaborative filtering of netnews

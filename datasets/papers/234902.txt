@@ -1,1 +1,0 @@
-UniSQL's next-generation object-relational database management system

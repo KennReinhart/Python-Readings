@@ -1,1 +1,0 @@
-On the use of registers in achieving wait-free consensus

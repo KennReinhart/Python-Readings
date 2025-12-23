@@ -1,1 +1,0 @@
-QoSMIC: quality of service sensitive multicast Internet protocol

@@ -1,1 +1,0 @@
-A NonStop kernel

@@ -1,1 +1,0 @@
-A mathematical theory of self-checking, self-testing and self-correcting programs

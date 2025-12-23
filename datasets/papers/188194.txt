@@ -1,1 +1,0 @@
-Another method for attaining security against adaptively chosen ciphertext attacks

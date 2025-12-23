@@ -1,1 +1,0 @@
-Generalized FLP impossibility result for t-resilient asynchronous computations

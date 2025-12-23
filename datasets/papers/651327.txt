@@ -1,1 +1,0 @@
-A Framework for Evaluating Storage System Security

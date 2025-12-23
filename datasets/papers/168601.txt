@@ -1,1 +1,0 @@
-NetCash: a design for practical electronic currency on the Internet

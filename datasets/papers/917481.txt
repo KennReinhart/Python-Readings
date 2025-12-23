@@ -1,1 +1,0 @@
-Naming, state management, and user-level extensions in the sprite distributed file system

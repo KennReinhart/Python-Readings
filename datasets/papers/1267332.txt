@@ -1,1 +1,0 @@
-The Chubby lock service for loosely-coupled distributed systems

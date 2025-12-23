@@ -1,1 +1,0 @@
-Distributed fault-tolerance for large multiprocessor systems

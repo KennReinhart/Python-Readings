@@ -1,1 +1,0 @@
-Secure routing for structured peer-to-peer overlay networks

@@ -1,1 +1,0 @@
-Performance issues in non-blocking synchronization on shared-memory multiprocessors

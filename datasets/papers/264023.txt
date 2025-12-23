@@ -1,1 +1,0 @@
-The macroscopic behavior of the TCP congestion avoidance algorithm

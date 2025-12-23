@@ -1,1 +1,0 @@
-Summary cache: a scalable wide-area web cache sharing protocol

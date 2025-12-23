@@ -1,1 +1,0 @@
-Automated proofs of object code for a widely used microprocessor

@@ -1,1 +1,0 @@
-Stopping times of distributed consensus protocols:  A probabilistic analysis

@@ -1,1 +1,0 @@
-CMC: a pragmatic approach to model checking real code

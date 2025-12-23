@@ -1,1 +1,0 @@
-A transaction model supporting complex applications in integrated information systems

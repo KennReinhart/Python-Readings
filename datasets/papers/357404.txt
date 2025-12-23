@@ -1,1 +1,0 @@
-The string-to-string correction problem with block moves

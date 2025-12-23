@@ -1,1 +1,0 @@
-Amortized efficiency of list update and paging rules

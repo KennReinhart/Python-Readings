@@ -1,1 +1,0 @@
-The effect of sharing on the cache and bus performance of parallel programs

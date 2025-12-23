@@ -1,1 +1,0 @@
-Distributed system V IPC in LOCUS: a design and implementation retrospective

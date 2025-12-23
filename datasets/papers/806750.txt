@@ -1,1 +1,0 @@
-Efficient solutions to the replicated log and dictionary problems

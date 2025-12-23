@@ -1,1 +1,0 @@
-Load balancing in homogeneous broadcast distributed systems

@@ -1,1 +1,0 @@
-Encrypted Key Exchange: Password-Based Protocols SecureAgainst Dictionary Attacks

@@ -1,1 +1,0 @@
-Synchronizing clocks in the presence of faults

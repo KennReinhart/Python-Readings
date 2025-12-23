@@ -1,1 +1,0 @@
-Group Communication in Partitionable Systems: Specification and Algorithms

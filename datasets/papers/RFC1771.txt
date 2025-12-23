@@ -1,1 +1,0 @@
-A Border Gateway Protocol 4 (BGP-4)

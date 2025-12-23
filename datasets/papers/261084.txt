@@ -1,1 +1,0 @@
-An introduction to Kolmogorov complexity and its applications (2nd ed.)

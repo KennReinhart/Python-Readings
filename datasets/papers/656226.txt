@@ -1,1 +1,0 @@
-Compressing Relations and Indexes

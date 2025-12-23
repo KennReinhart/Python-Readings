@@ -1,1 +1,0 @@
-A new solution of Dijkstra's concurrent programming problem

@@ -1,1 +1,0 @@
-A Fault-Tolerant Protocol for Atomic Broadcast

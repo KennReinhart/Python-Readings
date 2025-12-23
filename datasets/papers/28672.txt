@@ -1,1 +1,0 @@
-A knowledge-theoretic analysis of atomic commitment protocols

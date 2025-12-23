@@ -1,1 +1,0 @@
-BASE: using abstraction to improve fault tolerance

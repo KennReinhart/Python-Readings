@@ -1,1 +1,0 @@
-Achieving convergence, causality preservation, and intention preservation in real-time cooperative editing systems

@@ -1,1 +1,0 @@
-Fast Byzantine Consensus

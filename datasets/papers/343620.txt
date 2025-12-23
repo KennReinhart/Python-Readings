@@ -1,1 +1,0 @@
-Efficient atomic broadcast using deterministic merge

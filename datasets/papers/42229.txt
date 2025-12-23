@@ -1,1 +1,0 @@
-An O(log n) expected rounds randomized byzantine generals protocol

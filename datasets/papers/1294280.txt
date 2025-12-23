@@ -1,1 +1,0 @@
-Attested append-only memory: making adversaries stick to their word

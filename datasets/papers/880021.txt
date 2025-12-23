@@ -1,1 +1,0 @@
-Implementing sequentially consistent shared objects using broadcast and point-to-point communication

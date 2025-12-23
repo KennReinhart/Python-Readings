@@ -1,1 +1,0 @@
-Adaptive cross-parity (AXP) code for a high-density magnetic tape subsystem

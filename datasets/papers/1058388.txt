@@ -1,1 +1,0 @@
-Simple and Efficient Oracle-Based Consensus Protocols for Asynchronous Byzantine Systems

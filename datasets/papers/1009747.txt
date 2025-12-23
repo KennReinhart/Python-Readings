@@ -1,1 +1,0 @@
-A Framework for Dynamic Byzantine Storage

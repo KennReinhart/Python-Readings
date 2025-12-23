@@ -1,1 +1,0 @@
-Inferring internet denial-of-service activity

@@ -1,1 +1,0 @@
-Using Failure Detectors to Solve Consensus in Asynchronous Sharde-Memory Systems (Extended Abstract)

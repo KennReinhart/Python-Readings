@@ -1,1 +1,0 @@
-The Decentralized Non-Blocking Atomic Commitment Protocol

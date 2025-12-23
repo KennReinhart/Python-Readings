@@ -1,1 +1,0 @@
-The dynamic HomeFinder: evaluating dynamic queries in a real-estate information exploration system

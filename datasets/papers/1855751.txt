@@ -1,1 +1,0 @@
-SQCK: a declarative file system checker

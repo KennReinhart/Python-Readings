@@ -1,1 +1,0 @@
-Real-time quantification and classification of consistency anomalies in multi-tier architectures

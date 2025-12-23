@@ -1,1 +1,0 @@
-The Performance of Alternative Strategies for Dealing with Deadlocks in Database Management Systems

@@ -1,1 +1,0 @@
-Maximizing performance in a striped disk array

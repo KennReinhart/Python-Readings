@@ -1,1 +1,0 @@
-PNUTS: Yahoo!'s hosted data serving platform

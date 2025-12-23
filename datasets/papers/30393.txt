@@ -1,1 +1,0 @@
-The design and evaluation of a high performance Smalltalk system

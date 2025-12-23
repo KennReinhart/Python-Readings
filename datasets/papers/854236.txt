@@ -1,1 +1,0 @@
-Analysis of an ATM buffer with self-similar ("fractal") input traffic

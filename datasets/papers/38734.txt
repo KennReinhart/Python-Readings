@@ -1,1 +1,0 @@
-The EXODUS optimizer generator

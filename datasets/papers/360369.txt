@@ -1,1 +1,0 @@
-The notions of consistency and predicate locks in a database system

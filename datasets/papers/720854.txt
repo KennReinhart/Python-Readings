@@ -1,1 +1,0 @@
-DOS-Resistant Authentication with Client Puzzles

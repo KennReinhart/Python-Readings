@@ -1,1 +1,0 @@
-Transparent Support for Wait-Free Transactions

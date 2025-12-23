@@ -1,1 +1,0 @@
-Automatic verification of programs with complex data structure.

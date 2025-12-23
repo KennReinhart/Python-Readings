@@ -1,1 +1,0 @@
-The effects of concurrency control on the performance of database management systems.

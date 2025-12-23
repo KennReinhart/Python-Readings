@@ -1,1 +1,0 @@
-Extended process registry for erlang

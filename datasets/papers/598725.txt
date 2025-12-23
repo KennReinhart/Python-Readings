@@ -1,1 +1,0 @@
-Measuring the capacity of a Web server under realistic loads

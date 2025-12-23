@@ -1,1 +1,0 @@
-RAID-II: A Scalable Storage Architecture for High-Bandwidth Network

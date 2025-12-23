@@ -1,1 +1,0 @@
-Use of inherent parallelism in database operations

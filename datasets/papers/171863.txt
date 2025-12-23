@@ -1,1 +1,0 @@
-Assertations about past and future in Highways: Global flush broadcast and flush-vector-time

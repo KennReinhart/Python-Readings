@@ -1,1 +1,0 @@
-The specification and application to programming of abstract data types.

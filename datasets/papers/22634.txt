@@ -1,1 +1,0 @@
-The synthesis of digital machines with provable epistemic properties

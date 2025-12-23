@@ -1,1 +1,0 @@
-Secure deletion of data from magnetic and solid-state memory

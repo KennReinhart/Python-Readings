@@ -1,1 +1,0 @@
-The design and implementation of an intentional naming system

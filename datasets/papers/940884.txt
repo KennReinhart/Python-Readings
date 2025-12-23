@@ -1,1 +1,0 @@
-ARMISTICE: an experience developing management software with Erlang

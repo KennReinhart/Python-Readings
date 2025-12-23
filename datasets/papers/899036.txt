@@ -1,1 +1,0 @@
-The Virtue of Patience: Concurrent Programming with and Without Waiting

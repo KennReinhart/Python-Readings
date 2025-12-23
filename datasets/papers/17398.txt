@@ -1,1 +1,0 @@
-An in-cache address translation mechanism

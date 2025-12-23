@@ -1,1 +1,0 @@
-A reputation system for peer-to-peer networks

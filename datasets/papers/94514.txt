@@ -1,1 +1,0 @@
-Tradeoffs in processing complex join queries via hashing in multiprocessor database machines

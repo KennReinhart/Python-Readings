@@ -1,1 +1,0 @@
-BAR fault tolerance for cooperative services

@@ -1,1 +1,0 @@
-An algorithm for concurrency control and recovery in replicated distributed databases

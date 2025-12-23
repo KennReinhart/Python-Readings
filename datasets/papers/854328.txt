@@ -1,1 +1,0 @@
-Micro-Checkpointing: Checkpointing for Multithreaded Applications

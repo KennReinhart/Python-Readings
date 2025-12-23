@@ -1,1 +1,0 @@
-Zero-knowledge simulation of Boolean circuits

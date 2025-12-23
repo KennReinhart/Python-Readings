@@ -1,1 +1,0 @@
-On Fault Isolation and Identification in t1/t1-Diagnosable Systems

@@ -1,1 +1,0 @@
-Snapshot isolation and integrity constraints in replicated databases

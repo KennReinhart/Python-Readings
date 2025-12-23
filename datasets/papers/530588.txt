@@ -1,1 +1,0 @@
-Benchmark Handbook: For Database and Transaction Processing Systems

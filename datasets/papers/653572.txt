@@ -1,1 +1,0 @@
-Transaction Atomicity in the Presence of Network Partitions

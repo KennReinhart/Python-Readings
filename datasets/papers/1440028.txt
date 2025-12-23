@@ -1,1 +1,0 @@
-The Bayou Architecture: Support for Data Sharing Among Mobile Users

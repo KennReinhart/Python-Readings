@@ -1,1 +1,0 @@
-Dynamic decentralized cache schemes for mimd parallel processors

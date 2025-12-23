@@ -1,1 +1,0 @@
-Functional reactive programming from first principles

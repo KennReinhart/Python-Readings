@@ -1,1 +1,0 @@
-Trust-based navigation in distributed systems

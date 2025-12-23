@@ -1,1 +1,0 @@
-SEQUEL: A structured English query language

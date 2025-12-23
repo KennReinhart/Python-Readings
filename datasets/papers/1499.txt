@@ -1,1 +1,0 @@
-Optimism and consistency in partitioned distributed database systems

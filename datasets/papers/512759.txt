@@ -1,1 +1,0 @@
-Dependent graphs:: a method of fault-tolerant certificate distribution

@@ -1,1 +1,0 @@
-Non-monotonic Snapshot Isolation: Scalable and Strong Consistency for Geo-replicated Transactional Systems

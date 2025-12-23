@@ -1,1 +1,0 @@
-Safety, Visibility, and Performance in a Wide-Area File System

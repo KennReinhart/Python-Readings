@@ -1,1 +1,0 @@
-PIQL: success-tolerant query processing in the cloud

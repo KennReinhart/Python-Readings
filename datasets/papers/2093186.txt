@@ -1,1 +1,0 @@
-Eventual consistency: How soon is eventual? An evaluation of Amazon S3's consistency behavior

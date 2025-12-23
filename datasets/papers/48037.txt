@@ -1,1 +1,0 @@
-Cache performance of operating system and multiprogramming workloads

@@ -1,1 +1,0 @@
-A practical scheme for non-interactive verifiable secret sharing

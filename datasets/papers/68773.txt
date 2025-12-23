@@ -1,1 +1,0 @@
-Spare Capacity as a Means of Fault Detection and Diagnosis in Multiprocessor Systems

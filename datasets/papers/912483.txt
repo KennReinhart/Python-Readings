@@ -1,1 +1,0 @@
-The performance effects of functional migration and architectural complexity in object-oriented systems (risc)

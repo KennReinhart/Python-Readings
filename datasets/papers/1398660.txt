@@ -1,1 +1,0 @@
-Simulating (log/sup c/n)-wise independence in NC

@@ -1,1 +1,0 @@
-The impact of architectural trends on operating system performance

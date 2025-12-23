@@ -1,1 +1,0 @@
-The Accuracy of the Clock Synchronization Achieved by TEMPO in Berkeley UNIX 4.3BSD

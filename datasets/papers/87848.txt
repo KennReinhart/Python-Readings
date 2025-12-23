@@ -1,1 +1,0 @@
-Data caching issues in an information retrieval system

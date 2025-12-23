@@ -1,1 +1,0 @@
-The Tenet real-time protocol suite: design, implementation, and experiences

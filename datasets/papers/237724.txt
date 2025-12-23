@@ -1,1 +1,0 @@
-Is it a tree, a DAG, or a cyclic graph? A shape analysis for heap-directed pointers in C

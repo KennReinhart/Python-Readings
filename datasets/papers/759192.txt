@@ -1,1 +1,0 @@
-Boolean and Cartesian Abstraction for Model Checking C Programs

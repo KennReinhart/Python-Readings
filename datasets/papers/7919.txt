@@ -1,1 +1,0 @@
-Electing a leader in a synchronous ring

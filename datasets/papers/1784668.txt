@@ -1,1 +1,0 @@
-An adaptive coupling-based algorithm for internal clock synchronization of large scale dynamic systems

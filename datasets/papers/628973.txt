@@ -1,1 +1,0 @@
-The Performance of Spin Lock Alternatives for Shared-Memory Multiprocessors

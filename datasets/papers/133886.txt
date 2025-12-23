@@ -1,1 +1,0 @@
-Redundant disk arrays: reliable, parallel secondary storage

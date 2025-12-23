@@ -1,1 +1,0 @@
-A case for caching file objects inside internetworks

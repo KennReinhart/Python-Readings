@@ -1,1 +1,0 @@
-Fine-grain parallelism with minimal hardware support: a compiler-controlled threaded abstract machine

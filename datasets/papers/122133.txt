@@ -1,1 +1,0 @@
-The ISIS project: real experience with a fault tolerant programming system

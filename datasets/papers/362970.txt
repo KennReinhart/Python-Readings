@@ -1,1 +1,0 @@
-A note on reliable full-duplex transmission over half-duplex links

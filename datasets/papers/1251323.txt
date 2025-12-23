@@ -1,1 +1,0 @@
-Defeating TCP/IP stack fingerprinting

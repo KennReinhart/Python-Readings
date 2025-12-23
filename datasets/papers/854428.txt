@@ -1,1 +1,0 @@
-A Structured Approach to Redundant Disk Array Implementation

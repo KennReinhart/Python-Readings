@@ -1,1 +1,0 @@
-Integrity control in relational database systems: an overview

@@ -1,1 +1,0 @@
-Approximation for the mean value performance of locking algorithms for distributed database systems: a partitioned database

@@ -1,1 +1,0 @@
-Data-dependent concurrency control and recovery (Extended Abstract)

@@ -1,1 +1,0 @@
-Security Considerations for Peer-to-Peer Distributed Hash Tables

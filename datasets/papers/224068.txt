@@ -1,1 +1,0 @@
-Exploiting weak connectivity for mobile file access

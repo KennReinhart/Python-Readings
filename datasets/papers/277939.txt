@@ -1,1 +1,0 @@
-The performance of work stealing in multiprogrammed environments (extended abstract)

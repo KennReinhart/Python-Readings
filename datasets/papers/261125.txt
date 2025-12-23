@@ -1,1 +1,0 @@
-Transactional client-server cache consistency: alternatives and performance

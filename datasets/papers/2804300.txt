@@ -1,1 +1,0 @@
-The implementation and use of a generic dataflow behaviour in Erlang

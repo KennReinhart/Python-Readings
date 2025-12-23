@@ -1,1 +1,0 @@
-Mariposa: A New Architecture for Distributed Data

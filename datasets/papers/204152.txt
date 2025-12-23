@@ -1,1 +1,0 @@
-Divergence control for distributed database systems

@@ -1,1 +1,0 @@
-The Timed Asynchronous Distributed System Model

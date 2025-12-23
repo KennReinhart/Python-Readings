@@ -1,1 +1,0 @@
-Efficient fault-tolerant certificate revocation

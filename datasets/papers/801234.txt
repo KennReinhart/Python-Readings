@@ -1,1 +1,0 @@
-The design of a multi-microprocessor based simulation computer - I

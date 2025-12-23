@@ -1,1 +1,0 @@
-Improving the start-up behavior of a congestion control scheme for TCP

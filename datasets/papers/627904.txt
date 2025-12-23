@@ -1,1 +1,0 @@
-Distributed Optimistic Concurrency Control Methods for High-Performance Transaction Processing

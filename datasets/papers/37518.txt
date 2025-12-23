@@ -1,1 +1,0 @@
-Reimplementing the Cedar file system using logging and group commit

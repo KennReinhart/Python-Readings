@@ -1,1 +1,0 @@
-Efficient and flexible methods for transient versioning of records to avoid locking by read-only transactions

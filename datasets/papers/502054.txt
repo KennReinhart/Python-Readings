@@ -1,1 +1,0 @@
-Wide-area cooperative storage with CFS

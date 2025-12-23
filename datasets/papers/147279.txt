@@ -1,1 +1,0 @@
-The ESTEREL synchronous programming language: design, semantics, implementation

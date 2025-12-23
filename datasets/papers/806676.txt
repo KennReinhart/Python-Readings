@@ -1,1 +1,0 @@
-Distributed communication via global buffer

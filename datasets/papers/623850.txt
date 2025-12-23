@@ -1,1 +1,0 @@
-Distributed Fault Tolerance: Lessons from Delta-4

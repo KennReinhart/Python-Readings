@@ -1,1 +1,0 @@
-Compressing Bitmap Indexes for Faster Search Operations

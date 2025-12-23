@@ -1,1 +1,0 @@
-Extending Logging for Database Snapshot Refresh

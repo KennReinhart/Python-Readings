@@ -1,1 +1,0 @@
-Obstruction-Free Synchronization: Double-Ended Queues as an Example

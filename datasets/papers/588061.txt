@@ -1,1 +1,0 @@
-A recovery algorithm for a distributed database system

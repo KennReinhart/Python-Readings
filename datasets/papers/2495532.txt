@@ -1,1 +1,0 @@
-WAVES: Automatic Synthesis of Client-Side Validation Code for Web Applications

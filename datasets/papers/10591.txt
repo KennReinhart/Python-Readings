@@ -1,1 +1,0 @@
-Designing a global name service

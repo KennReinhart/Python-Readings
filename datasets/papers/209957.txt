@@ -1,1 +1,0 @@
-High performance synchronization algorithms for multiprogrammed multiprocessors

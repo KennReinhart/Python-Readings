@@ -1,1 +1,0 @@
-Verifying properties of parallel programs: an axiomatic approach

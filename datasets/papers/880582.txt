@@ -1,1 +1,0 @@
-A Dynamic Object Replication and Migration Protocol for an Internet Hosting Service

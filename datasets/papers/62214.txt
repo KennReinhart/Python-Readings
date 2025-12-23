@@ -1,1 +1,0 @@
-Multiparty unconditionally secure protocols

@@ -1,1 +1,0 @@
-The Apertos reflective operating system: the concept and its implementation

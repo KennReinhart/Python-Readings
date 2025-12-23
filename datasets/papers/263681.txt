@@ -1,1 +1,0 @@
-Replication and consistency: being lazy helps sometimes

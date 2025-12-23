@@ -1,1 +1,0 @@
-One-way functions and pseudorandom generators

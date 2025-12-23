@@ -1,1 +1,0 @@
-The design and implementation of tripwire: a file system integrity checker

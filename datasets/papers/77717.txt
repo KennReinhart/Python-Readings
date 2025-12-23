@@ -1,1 +1,0 @@
-Integrating security with fault-tolerant distributed databases

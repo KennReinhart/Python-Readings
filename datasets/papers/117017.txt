@@ -1,1 +1,0 @@
-An ad hoc approach to the implementation of polymorphism

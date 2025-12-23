@@ -1,1 +1,0 @@
-Data placement in shared-nothing parallel database systems

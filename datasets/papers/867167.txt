@@ -1,1 +1,0 @@
-COCA: A Secure Distributed On-line Certification Authority

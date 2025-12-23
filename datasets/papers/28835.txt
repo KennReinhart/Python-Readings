@@ -1,1 +1,0 @@
-The Crystal Multicomputer: Design and Implementation Experience

@@ -1,1 +1,0 @@
-Measured Performance of Time Interval Concurrency Control Techniques

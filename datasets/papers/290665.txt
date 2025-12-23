@@ -1,1 +1,0 @@
-The implementation of a CORBA object group service

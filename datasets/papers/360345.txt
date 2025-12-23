@@ -1,1 +1,0 @@
-An efficient, incremental, automatic garbage collector

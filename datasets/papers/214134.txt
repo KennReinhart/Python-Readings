@@ -1,1 +1,0 @@
-Asynchronous consensus and broadcast protocols

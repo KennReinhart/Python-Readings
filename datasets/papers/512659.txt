@@ -1,1 +1,0 @@
-Atomic data abstractions in a distributed collaborative editing system

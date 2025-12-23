@@ -1,1 +1,0 @@
-How to share memory in a distributed system

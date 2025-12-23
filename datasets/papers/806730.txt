@@ -1,1 +1,0 @@
-Maintaining the time in a distributed system

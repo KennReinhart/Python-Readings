@@ -1,1 +1,0 @@
-Cache coherence protocols: evaluation using a multiprocessor simulation model

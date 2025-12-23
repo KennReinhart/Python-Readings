@@ -1,1 +1,0 @@
-Parallel database systems: the future of high performance database systems

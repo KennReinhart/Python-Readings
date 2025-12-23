@@ -1,1 +1,0 @@
-Application performance in the QLinux multimedia operating system

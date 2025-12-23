@@ -1,1 +1,0 @@
-An interpretation of objects and object types

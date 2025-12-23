@@ -1,1 +1,0 @@
-R-trees: a dynamic index structure for spatial searching

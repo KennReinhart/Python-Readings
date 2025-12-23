@@ -1,1 +1,0 @@
-The Effect of Scheduling Discipline on Spin Overhead in Shared Memory Parallel Systems

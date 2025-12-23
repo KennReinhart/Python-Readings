@@ -1,1 +1,0 @@
-Scalability in the XFS file system

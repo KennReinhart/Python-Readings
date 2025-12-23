@@ -1,1 +1,0 @@
-A Formal Framework and Evaluation Method for Network Denial of Service

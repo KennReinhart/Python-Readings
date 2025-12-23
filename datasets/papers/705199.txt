@@ -1,1 +1,0 @@
-Multiparty Protocols Tolerating Half Faulty Processors

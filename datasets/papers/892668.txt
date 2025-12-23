@@ -1,1 +1,0 @@
-Parallel solution methods for triangular linear systems of equations

@@ -1,1 +1,0 @@
-Access Invariance and Its Use in High Contention Environments

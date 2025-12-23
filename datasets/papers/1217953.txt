@@ -1,1 +1,0 @@
-Language support for fast and reliable message-based communication in singularity OS

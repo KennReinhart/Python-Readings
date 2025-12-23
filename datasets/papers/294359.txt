@@ -1,1 +1,0 @@
-Adaptive hybrid clock discipline algorithm for the network time protocol

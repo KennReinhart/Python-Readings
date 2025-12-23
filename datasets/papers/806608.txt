@@ -1,1 +1,0 @@
-Computation & communication in R: a distributed database manager

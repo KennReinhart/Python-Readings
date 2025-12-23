@@ -1,1 +1,0 @@
-Computing connected components on parallel computers

@@ -1,1 +1,0 @@
-Yaksha: augmenting Kerberos with public key cryptography

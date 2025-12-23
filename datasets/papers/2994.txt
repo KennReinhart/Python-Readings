@@ -1,1 +1,0 @@
-Using Time Instead of Timeout for Fault-Tolerant Distributed Systems.

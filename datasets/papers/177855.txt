@@ -1,1 +1,0 @@
-Implementation of the typed call-by-value λ-calculus using a stack of regions

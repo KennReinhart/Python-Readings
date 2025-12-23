@@ -1,1 +1,0 @@
-A multithreaded PowerPC processor for commercial servers

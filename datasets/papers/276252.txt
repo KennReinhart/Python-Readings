@@ -1,1 +1,0 @@
-Fully Polynomial Byzantine Agreement for Processors in Rounds

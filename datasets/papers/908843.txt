@@ -1,1 +1,0 @@
-Parallel algorithms for multiple processor architectures.

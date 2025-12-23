@@ -1,1 +1,0 @@
-Failure detectors and the wait-free hierarchy (extended abstract)

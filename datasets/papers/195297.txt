@@ -1,1 +1,0 @@
-LCLint: a tool for using specifications to check code

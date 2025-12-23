@@ -1,1 +1,0 @@
-Efficient Byzantine Agreement Secure Against General Adversaries

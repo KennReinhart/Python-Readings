@@ -1,1 +1,0 @@
-Teapot: language support for writing memory coherence protocols

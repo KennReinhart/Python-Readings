@@ -1,1 +1,0 @@
-Hardware for Speculative Parallelization of Partially-Parallel Loops in DSM Multiprocessors

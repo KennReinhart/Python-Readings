@@ -1,1 +1,0 @@
-Is distributed locking harder?

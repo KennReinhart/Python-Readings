@@ -1,1 +1,0 @@
-Nested transactions:  an approach to reliable distributed computing

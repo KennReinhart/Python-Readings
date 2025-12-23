@@ -1,1 +1,0 @@
-Static Analysis of Concurrent Processes for Dynamic Properties Using Petri Nets

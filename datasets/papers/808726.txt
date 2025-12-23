@@ -1,1 +1,0 @@
-An 0(n log n) sorting network

@@ -1,1 +1,0 @@
-Synchronizing a database to improve freshness

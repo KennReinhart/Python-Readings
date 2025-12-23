@@ -1,1 +1,0 @@
-Throttling Viruses: Restricting propagation to defeat malicious mobile code

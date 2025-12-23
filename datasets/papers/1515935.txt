@@ -1,1 +1,0 @@
-Distributed versioning: consistent replication for scaling back-end databases of dynamic content web sites

@@ -1,1 +1,0 @@
-Types as models: model checking message-passing programs

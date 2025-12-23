@@ -1,1 +1,0 @@
-An optimality theory of concurrency control for databases

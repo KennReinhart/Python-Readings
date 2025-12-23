@@ -1,1 +1,0 @@
-Empirically derived analytic models of wide-area TCP connections

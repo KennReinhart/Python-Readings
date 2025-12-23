@@ -1,1 +1,0 @@
-Compiling Java to a Typed Lambda-Calculus: A Preliminary Report

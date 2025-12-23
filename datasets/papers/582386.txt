@@ -1,1 +1,0 @@
-The implementation of an integrated concurrency control and recovery scheme

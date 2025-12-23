@@ -1,1 +1,0 @@
-The LOCUS distributed operating system

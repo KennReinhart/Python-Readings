@@ -1,1 +1,0 @@
-HadoopDB: an architectural hybrid of MapReduce and DBMS technologies for analytical workloads

@@ -1,1 +1,0 @@
-Epidemic Information Dissemination in Distributed Systems

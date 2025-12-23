@@ -1,1 +1,0 @@
-A quorum-consensus replication method for abstract data types

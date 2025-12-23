@@ -1,1 +1,0 @@
-The parameterized Round-Robin partitioned algorithm for parallel external sort

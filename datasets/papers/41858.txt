@@ -1,1 +1,0 @@
-The elusive atomic register revisited

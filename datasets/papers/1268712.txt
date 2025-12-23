@@ -1,1 +1,0 @@
-Operation-based update propagation in a mobile file system

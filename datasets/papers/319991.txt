@@ -1,1 +1,0 @@
-Parallel algorithms for the execution of relational database operations

@@ -1,1 +1,0 @@
-Performance limitations of the Java core libraries

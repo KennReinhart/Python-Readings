@@ -1,1 +1,0 @@
-Recovery architectures for multiprocessor database machines

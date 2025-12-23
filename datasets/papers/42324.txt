@@ -1,1 +1,0 @@
-An overview of the SR language and implementation

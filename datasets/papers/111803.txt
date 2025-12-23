@@ -1,1 +1,0 @@
-The Influence of Different Workload Descriptions on a Heuristic Load Balancing Scheme

@@ -1,1 +1,0 @@
-Static detection of dynamic memory errors

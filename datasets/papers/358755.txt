@@ -1,1 +1,0 @@
-The Cornell program synthesizer: a syntax-directed programming environment

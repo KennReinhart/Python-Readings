@@ -1,1 +1,0 @@
-Multipoint communication by hierarchically encoded data

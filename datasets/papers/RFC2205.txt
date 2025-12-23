@@ -1,1 +1,0 @@
-Resource ReSerVation Protocol (RSVP) -- Version 1 Functional Specification

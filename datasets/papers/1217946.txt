@@ -1,1 +1,0 @@
-The SMART way to migrate replicated stateful services

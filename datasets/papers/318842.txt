@@ -1,1 +1,0 @@
-Extensibility in the Starburst database system

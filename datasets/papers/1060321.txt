@@ -1,1 +1,0 @@
-The effectiveness of request redirection on CDN robustness

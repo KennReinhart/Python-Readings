@@ -1,1 +1,0 @@
-Plutus: Scalable Secure File Sharing on Untrusted Storage

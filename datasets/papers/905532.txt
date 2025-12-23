@@ -1,1 +1,0 @@
-Parallelism exposure and exploitation in programs

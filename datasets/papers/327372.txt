@@ -1,1 +1,0 @@
-The influence of parallel decomposition strategies on the performance of multiprocessor systems

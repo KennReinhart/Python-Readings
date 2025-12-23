@@ -1,1 +1,0 @@
-An Analysis of Borrowing Policies for Escrow Transactions in a Replicated Data Environment

@@ -1,1 +1,0 @@
-Programming the Microsoft Windows Driver Model, Second Edition

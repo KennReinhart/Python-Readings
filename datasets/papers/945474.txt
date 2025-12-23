@@ -1,1 +1,0 @@
-SplitStream: high-bandwidth multicast in cooperative environments

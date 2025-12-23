@@ -1,1 +1,0 @@
-Low overhead concurrency control for partitioned main memory databases

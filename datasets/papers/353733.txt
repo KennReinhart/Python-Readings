@@ -1,1 +1,0 @@
-Distributed systems (3rd ed.): concepts and design

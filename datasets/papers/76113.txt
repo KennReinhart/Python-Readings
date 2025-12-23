@@ -1,1 +1,0 @@
-Scans as Primitive Parallel Operations

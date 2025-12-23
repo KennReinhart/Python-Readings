@@ -1,1 +1,0 @@
-Synthesis of Communicating Processes from Temporal Logic Specifications

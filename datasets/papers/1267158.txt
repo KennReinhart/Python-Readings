@@ -1,1 +1,0 @@
-SWAPEROO: a simple wallet architecture for payments, exchanges, refunds, and other operations

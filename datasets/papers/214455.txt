@@ -1,1 +1,0 @@
-Performance of the VAX-11/780 translation buffer: simulation and measurement

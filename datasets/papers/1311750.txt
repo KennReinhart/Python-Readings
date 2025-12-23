@@ -1,1 +1,0 @@
-How to Make a Multiprocessor Computer That Correctly Executes Multiprocess Programs

@@ -1,1 +1,0 @@
-Dynamic Data Distribution (D3) in a Shared-Nothing Multiprocessor Data Store

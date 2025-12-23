@@ -1,1 +1,0 @@
-The peer sampling service: experimental evaluation of unstructured gossip-based implementations

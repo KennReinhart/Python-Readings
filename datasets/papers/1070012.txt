@@ -1,1 +1,0 @@
-The Impact of Performance Asymmetry in Emerging Multicore Architectures

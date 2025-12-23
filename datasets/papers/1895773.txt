@@ -1,1 +1,0 @@
-The drop from front strategy in TCP and in TCP over ATM

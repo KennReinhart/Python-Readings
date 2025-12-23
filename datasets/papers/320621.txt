@@ -1,1 +1,0 @@
-Reliability mechanisms for SDD-1: a system for distributed databases

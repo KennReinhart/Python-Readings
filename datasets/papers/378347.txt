@@ -1,1 +1,0 @@
-Bayeux: an architecture for scalable and fault-tolerant wide-area data dissemination

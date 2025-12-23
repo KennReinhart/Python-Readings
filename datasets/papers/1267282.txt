@@ -1,1 +1,0 @@
-The measured access characteristics of world-wide-web client proxy caches

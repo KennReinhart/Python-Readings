@@ -1,1 +1,0 @@
-The evolution of storage service providers: techniques and challenges to outsourcing storage

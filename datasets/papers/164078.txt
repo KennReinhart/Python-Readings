@@ -1,1 +1,0 @@
-On the space complexity of randomized synchronization

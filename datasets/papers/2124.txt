@@ -1,1 +1,0 @@
-Randomized and deterministic simulations of PRAMs by parallel machines with restricted granularity of parallel memories

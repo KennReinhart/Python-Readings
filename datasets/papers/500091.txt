@@ -1,1 +1,0 @@
-Implementation of integrity constraints and views by query modification

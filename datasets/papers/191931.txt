@@ -1,1 +1,0 @@
-DEC data distributor: for data replication and data warehousing

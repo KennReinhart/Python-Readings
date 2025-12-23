@@ -1,1 +1,0 @@
-Atomic snapshots of shared memory

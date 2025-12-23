@@ -1,1 +1,0 @@
-SIFT: Design and analysis of a fault-tolerant computer for aircraft control

@@ -1,1 +1,0 @@
-Pros and cons of operating system transactions for data base systems

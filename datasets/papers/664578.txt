@@ -1,1 +1,0 @@
-Separation Logic: A Logic for Shared Mutable Data Structures

@@ -1,1 +1,0 @@
-Farsite: federated, available, and reliable storage for an incompletely trusted environment

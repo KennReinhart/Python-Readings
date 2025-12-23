@@ -1,1 +1,0 @@
-The Coign automatic distributed partitioning system

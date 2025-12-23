@@ -1,1 +1,0 @@
-Partition-Based Clustering in Object Bases: From Theory to Practice

@@ -1,1 +1,0 @@
-Optimizing Queries on Compressed Bitmaps

@@ -1,1 +1,0 @@
-OLTP-Bench: an extensible testbed for benchmarking relational databases

@@ -1,1 +1,0 @@
-History repeats itself: sensible and NonsenSQL aspects of the NoSQL hoopla

@@ -1,1 +1,0 @@
-On Stable Parallel Linear System Solvers

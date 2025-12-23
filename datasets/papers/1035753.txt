@@ -1,1 +1,0 @@
-Failure detection and consensus in the crash-recovery model

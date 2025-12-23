@@ -1,1 +1,0 @@
-An optimal algorithm for mutual exclusion in computer networks

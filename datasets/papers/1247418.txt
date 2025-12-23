@@ -1,1 +1,0 @@
-Flashback: a lightweight extension for rollback and deterministic replay for software debugging

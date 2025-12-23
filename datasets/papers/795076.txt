@@ -1,1 +1,0 @@
-Casper: A Compiler for the Analysis of Security Protocols

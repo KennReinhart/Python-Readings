@@ -1,1 +1,0 @@
-SEAD: Secure Efficient Distance Vector Routing for Mobile Wireless Ad Hoc Networks

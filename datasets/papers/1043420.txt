@@ -1,1 +1,0 @@
-The Soft Error Problem: An Architectural Perspective

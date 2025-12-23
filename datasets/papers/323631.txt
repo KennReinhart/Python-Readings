@@ -1,1 +1,0 @@
-A trace-driven analysis of the UNIX 4.2 BSD file system

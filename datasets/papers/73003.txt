@@ -1,1 +1,0 @@
-Shared-memory vs. message-passing in an asynchronous distributed environment

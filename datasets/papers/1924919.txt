@@ -1,1 +1,0 @@
-What consistency does your key-value store actually provide?

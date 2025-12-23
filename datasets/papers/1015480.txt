@@ -1,1 +1,0 @@
-The feasibility of supporting large-scale live streaming applications with dynamic application end-points

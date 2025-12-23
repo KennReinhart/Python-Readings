@@ -1,1 +1,0 @@
-Distributed provers with applications to undeniable signatures

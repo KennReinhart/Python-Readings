@@ -1,1 +1,0 @@
-An Analysis of Three Transaction Processing Architectures

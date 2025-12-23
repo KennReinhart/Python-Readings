@@ -1,1 +1,0 @@
-Report on the programming language Haskell: a non-strict, purely functional language version 1.2

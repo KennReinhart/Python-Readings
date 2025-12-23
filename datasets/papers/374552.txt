@@ -1,1 +1,0 @@
-DSR: the dynamic source routing protocol for multihop wireless ad hoc networks

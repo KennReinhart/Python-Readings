@@ -1,1 +1,0 @@
-A Query Translation Scheme for Rapid Implementation of Wrappers

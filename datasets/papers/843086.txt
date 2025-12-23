@@ -1,1 +1,0 @@
-Server Selection Using Dynamic Path Characterization in Wide-Area Networks

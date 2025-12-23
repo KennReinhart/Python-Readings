@@ -1,1 +1,0 @@
-Nash Convergence of Gradient Dynamics in General-Sum Games

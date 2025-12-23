@@ -1,1 +1,0 @@
-VMTP: a transport protocol for the next generation of communication systems

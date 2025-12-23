@@ -1,1 +1,0 @@
-HQ replication: a hybrid quorum protocol for byzantine fault tolerance

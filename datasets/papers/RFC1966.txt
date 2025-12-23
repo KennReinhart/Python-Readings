@@ -1,1 +1,0 @@
-BGP Route Reflection An alternative to full mesh IBGP

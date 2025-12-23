@@ -1,1 +1,0 @@
-A Concurrent Time-Stamp Scheme which is Linear in Time and Space

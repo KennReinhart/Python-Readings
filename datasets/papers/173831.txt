@@ -1,1 +1,0 @@
-A Parallel Hash Join Algorithm for Managing Data Skew

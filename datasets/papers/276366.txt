@@ -1,1 +1,0 @@
-50,000 users on an Oracle8 universal server database

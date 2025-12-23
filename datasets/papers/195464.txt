@@ -1,1 +1,0 @@
-Time-adaptive algorithms for synchronization

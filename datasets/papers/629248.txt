@@ -1,1 +1,0 @@
-Voting as the Optimal Static Pessimistic Scheme for Managing Replicated Data

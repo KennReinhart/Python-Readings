@@ -1,1 +1,0 @@
-Session guarantees for weakly consistent replicated data

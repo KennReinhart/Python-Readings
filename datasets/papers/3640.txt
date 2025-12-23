@@ -1,1 +1,0 @@
-Distributed systems: methods and tools for specification. An advanced course

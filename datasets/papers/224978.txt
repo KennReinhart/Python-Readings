@@ -1,1 +1,0 @@
-Crumbling walls: a class of practical and efficient quorum systems

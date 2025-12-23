@@ -1,1 +1,0 @@
-Optimization of parallel query execution plans in XPRS

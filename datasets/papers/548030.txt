@@ -1,1 +1,0 @@
-Executive Briefing: Advances in Concurrency Control and Transaction Processing

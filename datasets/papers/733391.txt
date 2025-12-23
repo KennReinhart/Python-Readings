@@ -1,1 +1,0 @@
-The specification of process synchronization by path expressions

@@ -1,1 +1,0 @@
-The Cactus Worm: Experiments with Dynamic Resource Discovery and Allocation in a Grid Environment

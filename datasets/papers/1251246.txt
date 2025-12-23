@@ -1,1 +1,0 @@
-Trading capacity for performance in a disk array

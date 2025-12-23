@@ -1,1 +1,0 @@
-Modeling and simulation of self-similar variable bit rate compressed video: a unified approach

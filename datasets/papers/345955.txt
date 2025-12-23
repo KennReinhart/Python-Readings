@@ -1,1 +1,0 @@
-Mitigating routing misbehavior in mobile ad hoc networks

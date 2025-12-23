@@ -1,1 +1,0 @@
-Converting Lamport's regular register to atomic register

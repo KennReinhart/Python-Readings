@@ -1,1 +1,0 @@
-Distributed data base management: Some thoughts and analyses

@@ -1,1 +1,0 @@
-Nested Java processes: OS structure for mobile code

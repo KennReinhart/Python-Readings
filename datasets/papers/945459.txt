@@ -1,1 +1,0 @@
-SHARP: an architecture for secure resource peering

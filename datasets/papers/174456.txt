@@ -1,1 +1,0 @@
-Asynchronous transfer mode (2nd ed.): solution for broadband ISDN

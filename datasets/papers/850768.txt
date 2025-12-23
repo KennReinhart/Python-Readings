@@ -1,1 +1,0 @@
-An experiment using registers for fast message-based interprocess communication

@@ -1,1 +1,0 @@
-Empirical studies of competitve spinning for a shared-memory multiprocessor

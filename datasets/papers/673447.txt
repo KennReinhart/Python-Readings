@@ -1,1 +1,0 @@
-System D: A Distributed System for Availability

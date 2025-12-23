@@ -1,1 +1,0 @@
-Parallel algorithms for the transitive closure and the connected component problems

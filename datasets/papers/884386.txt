@@ -1,1 +1,0 @@
-Execution monitoring of security-critical programs in distributed systems: a Specification-based approach

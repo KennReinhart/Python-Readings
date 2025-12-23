@@ -1,1 +1,0 @@
-Fast randomized consensus using shared memory

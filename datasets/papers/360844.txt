@@ -1,1 +1,0 @@
-The parallel execution of DO loops

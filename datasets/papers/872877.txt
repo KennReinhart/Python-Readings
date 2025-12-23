@@ -1,1 +1,0 @@
-XQuery: a query language for XML

@@ -1,1 +1,0 @@
-An Analysis of the Effect of Network Parameters on the Performance of Distributed Database Systems

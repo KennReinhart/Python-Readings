@@ -1,1 +1,0 @@
-A feedback-driven proportion allocator for real-rate scheduling

@@ -1,1 +1,0 @@
-Improving data consistency in mobile computing using isolation-only transactions

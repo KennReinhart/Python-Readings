@@ -1,1 +1,0 @@
-Robust emulation of shared memory using dynamic quorum-acknowledged broadcasts

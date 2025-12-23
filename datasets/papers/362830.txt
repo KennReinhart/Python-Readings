@@ -1,1 +1,0 @@
-Estimates of distributions of random variables for certain computer communications traffic models

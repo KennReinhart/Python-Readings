@@ -1,1 +1,0 @@
-Distributed Asynchronous Collections: Abstractions for Publish/Subscribe Interaction

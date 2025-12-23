@@ -1,1 +1,0 @@
-A Theory of Timestamp-Based Concurrency Control for Nested Transactions

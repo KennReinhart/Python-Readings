@@ -1,1 +1,0 @@
-Identifiers (Naming) in Distributed Systems

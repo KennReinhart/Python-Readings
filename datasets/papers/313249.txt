@@ -1,1 +1,0 @@
-A prototype implementation of archival Intermemory

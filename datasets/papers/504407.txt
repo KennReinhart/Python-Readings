@@ -1,1 +1,0 @@
-The operating system kernel as a secure programmable machine

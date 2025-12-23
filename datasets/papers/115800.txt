@@ -1,1 +1,0 @@
-An optimistic commit protocol for distributed transaction management

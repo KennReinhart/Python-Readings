@@ -1,1 +1,0 @@
-The demarcation protocol: a technique for maintaining constraints in distributed database systems

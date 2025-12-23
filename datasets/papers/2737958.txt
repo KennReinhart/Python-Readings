@@ -1,1 +1,0 @@
-Verdi: a framework for implementing and formally verifying distributed systems

@@ -1,1 +1,0 @@
-The Kerberos Network Authentication Service (V5)

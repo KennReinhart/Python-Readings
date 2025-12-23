@@ -1,1 +1,0 @@
-Design of a separable transition-diagram compiler

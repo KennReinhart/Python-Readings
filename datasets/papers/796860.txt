@@ -1,1 +1,0 @@
-Fail-Awareness: An Approach to Construct Fail-Safe Applications

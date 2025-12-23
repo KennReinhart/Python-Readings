@@ -1,1 +1,0 @@
-Efficient solution to the distributed mutual exclusion problem

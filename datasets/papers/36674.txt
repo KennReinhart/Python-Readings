@@ -1,1 +1,0 @@
-A secure and privacy-protecting protocol for transmitting personal information between organizations

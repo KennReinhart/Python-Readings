@@ -1,1 +1,0 @@
-Distributed Concurrency Control Performance: A Study of Algorithms, Distribution, and Replication

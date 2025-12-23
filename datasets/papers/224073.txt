@@ -1,1 +1,0 @@
-CRL: high-performance all-software distributed shared memory

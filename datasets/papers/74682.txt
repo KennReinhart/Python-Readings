@@ -1,1 +1,0 @@
-Using one-way functions for authentication

@@ -1,1 +1,0 @@
-Algebraic Optimization of Computations over Scientific Databases

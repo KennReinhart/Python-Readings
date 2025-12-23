@@ -1,1 +1,0 @@
-Delimiting the power of bounded size synchronization objects (extended abstract)

@@ -1,1 +1,0 @@
-Generalized Secret Sharing and Monotone Functions

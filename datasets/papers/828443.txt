@@ -1,1 +1,0 @@
-Portable RK: A Portable Resource Kernel for Guaranteed and Enforced Timing Behavior

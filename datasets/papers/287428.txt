@@ -1,1 +1,0 @@
-Measurements and analysis of end-to-end Internet dynamics

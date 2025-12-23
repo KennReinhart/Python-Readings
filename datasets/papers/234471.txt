@@ -1,1 +1,0 @@
-Implementing efficient fault containment for multiprocessors: confining faults in a shared-memory multiprocessor environment

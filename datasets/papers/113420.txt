@@ -1,1 +1,0 @@
-A tight upper bound on the benefits of replication and consistency control protocols

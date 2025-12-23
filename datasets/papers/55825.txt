@@ -1,1 +1,0 @@
-On the influence of scale in a distributed system

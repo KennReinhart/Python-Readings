@@ -1,1 +1,0 @@
-Optimizing queries over multimedia repositories

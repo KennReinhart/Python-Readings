@@ -1,1 +1,0 @@
-The weakest failure detector for solving consensus
